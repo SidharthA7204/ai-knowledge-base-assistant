@@ -55,15 +55,13 @@ This system enables users to upload files and get accurate, context-aware respon
 
 ## ▶️ Run Locally
 
-```bash
+bash
 pip install -r requirements.txt
 streamlit run app.py
 
 
 
 ---
-
-<img width="1536" height="1024" alt="ChatGPT Image Mar 19, 2026, 08_16_28 PM" src="https://github.com/user-attachments/assets/d9cb855d-1a95-4b66-938e-be06defda981" />
 
 
 Use this 👇
